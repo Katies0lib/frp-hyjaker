@@ -1,3 +1,2 @@
 # frp-hyjaker
-a tool used in craking the error secreen if any thing happend in a samsung 5 phone
-or you aploaded a broken os
+a tool used to fix the error screen on a Samsung Galaxy S5 phone if anything happened or if you uploaded a broken operating system.
